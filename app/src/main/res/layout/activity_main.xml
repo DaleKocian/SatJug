@@ -16,7 +16,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/jug_logo"
-            android:contentDescription="@string/jug_logo"/>
+            android:contentDescription="@string/jug_logo"
+            />
 
         <TextView
             android:id="@+id/tvGroupName"
@@ -33,7 +34,8 @@
             android:layout_height="wrap_content"
             android:drawableLeft="@drawable/ic_place"
             android:drawableStart="@drawable/ic_place"
-            android:text="@string/satjug_location"/>
+            android:text="@string/satjug_location"
+            />
 
         <TextView
             android:id="@+id/tvPhone"
@@ -43,7 +45,8 @@
             android:autoLink="phone"
             android:drawableLeft="@drawable/ic_call"
             android:drawableStart="@drawable/ic_call"
-            android:text="@string/satjug_phone"/>
+            android:text="@string/satjug_phone"
+            />
 
         <TextView
             android:id="@+id/tvWebsite"
@@ -53,7 +56,8 @@
             android:autoLink="web"
             android:drawableLeft="@drawable/ic_language"
             android:drawableStart="@drawable/ic_language"
-            android:text="@string/satjug_website"/>
+            android:text="@string/satjug_website"
+            />
 
         <TextView
             android:id="@+id/tvMeetupUrl"
