@@ -7,5 +7,5 @@
     <string name="jug_meetup_url"><a href="http://www.meetup.com/San-Antonio-Java-User-Group">http://www.meetup.com/San-Antonio-Java-User-Group</a></string>
     <string name="satjug_location"><a href="https://goo.gl/maps/E1hxWXDtoiD2">New Horizons Computer Learning Center</a></string>
     <string name="satjug_description">SATJUG is dedicated to the use of the Java™ Technology. We are one of the many Java User Groups worldwide.</string>
-    <string name="satjug_phone">979-575-2403</string>
+    <string name="satjug_phone">979–575–2403</string>
 </resources>
